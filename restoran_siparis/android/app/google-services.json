@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "150774523119",
+    "firebase_url": "https://adisyon-a75d7.firebaseio.com",
+    "project_id": "adisyon-a75d7",
+    "storage_bucket": "adisyon-a75d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150774523119:android:a9700e29d257e1dbe4a71a",
+        "android_client_info": {
+          "package_name": "com.example.restoran_siparis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150774523119-s4cbtvq44t5s1jgot16s9sgfchs9m9lv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDqoRs9hgrfVbxeqwYoL409KN9IlGOX3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150774523119-s4cbtvq44t5s1jgot16s9sgfchs9m9lv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
